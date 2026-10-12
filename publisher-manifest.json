@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "880ef65beeb5a8a97794db7b",
+  "owner": "lnzlwsdd",
+  "repo": "page-5b442248e7ac08b001e33fed",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b442248e7ac08b001e33fed",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ff2eb04764fec6a5d4cf0782d6db3e85bcd08047f1812e2c9b7d5af24e75f71",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供专业机场订阅、VPN加速器、客户端下载及官方下载服务，帮助用户畅享高速网络加速。",
+          "AI_DESCRIPTION": "TG号批发提供专业机场订阅、VPN加速器、客户端下载及官方下载服务，帮助用户畅享高速网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{font-family:system-ui,-apple-system,sans-serif;margin:0;padding:0;background:#f8fafc;color:#333;line-height:1.7}header{background:linear-gradient(to right,#0a2540,#1e3a8a);color:#fff;text-align:center;padding:30px 20px}h1{font-size:2.5rem;margin:0 0 10px}.container{display:flex;max-width:1200px;margin:40px auto;padding:0 20px;gap:40px}.left,.right{flex:1}@media(max-width:768px){.container{flex-direction:column}}h2{color:#0a2540;font-size:1.8rem;margin-bottom:20px;border-bottom:3px solid #00b4d8;padding-bottom:10px}.plans{display:flex;flex-wrap:wrap;gap:20px;justify-content:center}.plan{background:#ffffff;border:1px solid #e2e8f0;border-radius:12px;padding:25px;width:100%;max-width:320px;box-shadow:0 4px 15px rgba(0,0,0,0.05);transition:transform .3s ease}.plan:hover{transform:translateY(-5px)}.plan.featured{border:2px solid #00b4d8;box-shadow:0 8px 25px rgba(0,180,216,0.2)} .plan h3{font-size:1.4rem;margin:0 0 10px;color:#0a2540}.plan p{font-size:1.1rem;color:#64748b;margin:0 0 15px}.plan ul{list-style:none;padding:0;margin:0}.plan ul li{padding:8px 0;border-bottom:1px dashed #e2e8f0;font-size:1rem}.plan ul li:last-child{border-bottom:none}details{background:#ffffff;margin-bottom:15px;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.05)}summary{background:linear-gradient(to right,#0a2540,#1e40af);color:#fff;padding:16px 20px;font-size:1.1rem;font-weight:bold;cursor:pointer}summary:hover{background:linear-gradient(to right,#1e40af,#0a2540)}details p{padding:16px 20px;margin:0;border-top:1px solid #f1f5f9}footer{background:#0a2540;color:#fff;text-align:center;padding:20px;font-size:0.9rem}a{color:#00b4d8;text-decoration:none}a:hover{text-decoration:underline}.featured-badge{background:#00b4d8;color:white;padding:5px 12px;border-radius:4px;font-size:0.9rem;display:inline-block;margin-bottom:10px}</style><header><h1>TG号批发</h1></header><main><div class=\"container\"><div class=\"left\"><section><h2>品牌简介</h2><p>TG号批发致力于为用户提供优质的机场订阅和VPN加速器服务。通过稳定的网络连接，帮助用户轻松解锁全球热门流媒体平台，实现高速畅快的上网体验。</p></section><section><h2>使用场景</h2><p>无论在家办公、远程工作，还是外出旅行，TG号批发都能为您提供可靠的网络加速方案。支持多人在线，适合家庭和团队使用。</p></section><section><h2>操作说明</h2><ol><li>访问官网选择订阅计划。</li><li>完成支付获取订阅信息。</li><li>从官网下载客户端。</li><li>安装后导入订阅链接连接节点。</li><li>享受加速服务。</li></ol></section></div><div class=\"right\"><section><h2>订阅计划</h2><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p>¥15/月 <span>按年付仅需 ¥150/年</span></p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><span class=\"featured-badge\">最受欢迎</span><p>¥35/月 <span>按年付仅需 ¥350/年</span></p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p>¥85/月 <span>按年付仅需 ¥850/年</span></p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section class=\"faq\"><h2>常见问题 FAQ</h2><details><summary>什么是 TG号批发？</summary><p>TG号批发是专业的机场订阅和VPN加速器服务，提供高速稳定网络连接，支持流媒体解锁和多设备在线。</p></details><details><summary>如何订阅 TG号批发？</summary><p>只需访问官网，选择套餐进行支付，即可获得订阅链接和使用指南。</p></details><details><summary>支持哪些设备？</summary><p>基础版支持3台设备，旗舰版支持5台，团队版支持20台设备同时在线。</p></details><details><summary>如何下载客户端？</summary><p>在官网提供官方客户端下载，安装后输入订阅信息即可连接节点。</p></details><details><summary>提供哪些线路节点？</summary><p>基础版提供普通线路，旗舰版支持IPLC专线，团队版有VIP高带宽节点。</p></details></section></div></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© 2024 TG号批发 | 所有权利保留 | 客户端下载：<a href=\"#\">官网下载</a> | 订阅指南请查阅官网</p></footer>",
+          "hash": "5ffb45811190e8c069d0db0c884dda689a221c590b60edac4637f9de441b1579",
+          "seo": {
+            "title": "TG号批发 | 机场订阅 VPN加速器 客户端下载 官网",
+            "keywords": "TG号批发,机场订阅,VPN加速器,客户端下载,官网,订阅计划",
+            "description": "TG号批发提供专业机场订阅、VPN加速器、客户端下载及官方下载服务，帮助用户畅享高速网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xazpthf.cn",
+    "host": "p-6cf15602fd.xazpthf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "68a219af5398fe834bd3945e92621b8f560b39bc93cb1e667741104043daa796",
+    "sitemap.xml": "77c0806d3111a354aabb6fba88ae4c4f45a6e160b9d880d38a178b2780b1275d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0ae42990e3a3ac7ade84156d66c73df2e03e89721991300224dc673ab9eb2db0",
+    "robots.txt": "cf77360fbabb58be617a4be7cd156df0b1ef75f8fd5d7d1d6ee74d46db7d5753",
+    "d147357b7f06b49abb073c65bc356fdf.txt": "d08dc617ece1ecdd0ee97a541d903110cf0ef11f63e0ae9f19b8170f73e2b48e"
+  },
+  "revision": "6bc453103a70d67223d39ae9668aeeb77c0d2043c6ded4f0c568f05cf2b3af26"
+}
